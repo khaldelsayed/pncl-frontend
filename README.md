@@ -1,6 +1,9 @@
-# PnclFrontend
+# Pncl Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+
+## Firebase server
+https://pncl-frontend.web.app/
 
 ## Development server
 
